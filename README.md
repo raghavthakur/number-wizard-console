@@ -1,1 +1,1 @@
-Introduction to C# programming in Unity.
+Guess the number game using the console in Unity.
